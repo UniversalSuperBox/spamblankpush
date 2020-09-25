@@ -6,7 +6,7 @@ Spam Blank Push is a script to quickly send a blank push command to an advanced 
 Prerequisites
 -------------
 
-To use jps-gsx-robot, you will need Python3 and pipenv installed.
+To use spamblankpush, you will need Python3 and pipenv installed.
 
 Install Python
 ^^^^^^^^^^^^^^
@@ -24,7 +24,7 @@ To install Python3 on Windows, download its installer from https://www.python.or
 Install Pipenv
 ^^^^^^^^^^^^^^
 
-Pipenv is used to install the dependencies for jps-gsx-robot and keep them separate from any other Python projects on your computer. To install pipenv, run the following command in a terminal or command prompt::
+Pipenv is used to install the dependencies for spamblankpush and keep them separate from any other Python projects on your computer. To install pipenv, run the following command in a terminal or command prompt::
 
     pip3 install --user pipenv
 
@@ -34,7 +34,7 @@ Usage
 Download spamblankpush
 ^^^^^^^^^^^^^^^^^^^^^^
 
-You can download the script and its example configuration by selecting "Download ZIP" under the Clone or Download menu, clicking [this link](https://github.com/UniversalSuperBox/jps-gsx-robot/archive/master.zip), or cloning it with `git`.
+You can download the script and its example configuration by selecting "Download ZIP" under the Clone or Download menu, clicking [this link](https://github.com/UniversalSuperBox/spamblankpush/archive/main.zip), or cloning it with `git`.
 
 Install dependencies
 ^^^^^^^^^^^^^^^^^^^^
