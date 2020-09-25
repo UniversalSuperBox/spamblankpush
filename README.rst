@@ -14,7 +14,7 @@ Install Python
 macOS
 """""
 
-To install Python3 on macOS, download the pkg from https://www.python.org/downloads/. Once you've run and installed the pkg, find "Python 3.*x*" in your Applications directory and run the `Update Shell Profile.command` file, then the `Install Certificates.command` file.
+To install Python3 on macOS, download the pkg from https://www.python.org/downloads/. Once you've run and installed the pkg, find "Python 3.x" in your Applications directory and run the ``Update Shell Profile.command`` file, then the ``Install Certificates.command`` file.
 
 Windows
 """""""
@@ -34,7 +34,7 @@ Usage
 Download spamblankpush
 ^^^^^^^^^^^^^^^^^^^^^^
 
-You can download the script and its example configuration by selecting "Download ZIP" under the Clone or Download menu, clicking [this link](https://github.com/UniversalSuperBox/spamblankpush/archive/main.zip), or cloning it with `git`.
+You can download the script and its example configuration by selecting "Download ZIP" under the Clone or Download menu, clicking `this link <https://github.com/UniversalSuperBox/spamblankpush/archive/main.zip>`_, or cloning it with ``git``.
 
 Install dependencies
 ^^^^^^^^^^^^^^^^^^^^
@@ -48,12 +48,12 @@ Configure spamblankpush
 
 spamblankpush is configured via environment variables.
 
-To set the configuration environment variables under most shells, type `export VARIABLE_NAME=value`. For example, to provide JAMF_USERNAME to the script from the environment, type::
+To set the configuration environment variables under most shells, type ``export VARIABLE_NAME=value``. For example, to provide JAMF_USERNAME to the script from the environment, type::
 
     export JAMF_USERNAME='spamblankpush'
 
 
-Under a Windows shell, replace `export` with `set`.
+Under a Windows shell, replace ``export`` with ``set``.
 
 The required configuration variables follow.
 
